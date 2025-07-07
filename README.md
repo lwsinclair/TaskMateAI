@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/newaitees-taskmateai-badge.png)](https://mseep.ai/app/newaitees-taskmateai)
+
 # TaskMateAI
 ## AI/MCP TODOタスク管理アプリケーション
 
